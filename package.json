@@ -1,7 +1,7 @@
 {
-  "name": "@twoja-firma/codebase",
+  "name": "@l-michalik/kit",
   "version": "1.0.0",
-  "description": "Wspólne komponenty i logika dla aplikacji frontendowych",
+  "description": "",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
